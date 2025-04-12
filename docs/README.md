@@ -2,7 +2,7 @@
 
 A beautiful and minimalist digital clock web application that displays time in a clean, modern interface. The project features a responsive design with a serene beach background that creates a calming atmosphere.
 
-![Smart Clock Interface](../assets/andrew-coelho-m6tAqZvy4RM-unsplash.jpg)
+![Smart Clock Interface](../assets/HomePage.png)
 
 ## Features
 
